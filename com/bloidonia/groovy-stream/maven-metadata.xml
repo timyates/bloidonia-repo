@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.bloidonia</groupId>
+  <artifactId>groovy-stream</artifactId>
+  <version>0.2</version>
+  <versioning>
+    <versions>
+      <version>0.2</version>
+    </versions>
+    <lastUpdated>20120607133759</lastUpdated>
+  </versioning>
+</metadata>
